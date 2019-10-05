@@ -1,3 +1,5 @@
+This repository provides example programs for 人工智能基础（高中版） 
+
 **- Prepare a server with GPU and install OS.** 
 
 **- Install nvidia-dirver** 
