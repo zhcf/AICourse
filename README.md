@@ -10,21 +10,22 @@ This repository provides example programs for 人工智能基础（高中版）
 
 **- Git clone this repository to host directory /AICourse**
 
-**- Download data and env needed by the course**
+**- Download data and env(libraries which are needed by running program)**
 
 ```
-Data and env are saved on baidu yunpan: https://pan.baidu.com/s/1FbODrDjFJf1IE7iFdl9GuQ extract code: p96b
+Data and env are saved on baidu yunpan:  
+https://pan.baidu.com/s/1FbODrDjFJf1IE7iFdl9GuQ extract code: p96b
 
-The data data.tar.parta* used by this course is almost 10GB, download data.tar.parta* to /AICourse, then: 
+The data (data.tar.parta*) is almost 10GB, download data.tar.parta* to /AICourse, then: 
 cat data.tar.parta* > data.tar
 tar -xf data.tar
 rm -rf data.tar.parta*
 
-The env(library) env.tar used by this course is almost 4GB, download env.tar to /AICourse, then: 
+The env(env.tar) is almost 4GB, download env.tar to /AICourse, then: 
 tar -xf env.tar
 ```
 
-**- Launch jupyter and use jupyter for running the course program.**
+**- Launch jupyter and use jupyter to run example programs.**
 
 ```
 docker run -it --gpus all -p 8080:8888 -v /AICourse:/AICourse  zhcf/aicourse:20191004 
