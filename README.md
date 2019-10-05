@@ -1,4 +1,4 @@
-This repository provides example programs for 人工智能基础（高中版） 
+This repository provides example programs for 人工智能基础（高中版）,非官方。 
 
 **- Prepare a server with GPU and install OS.** 
 
