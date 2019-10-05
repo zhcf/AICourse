@@ -10,7 +10,7 @@ This repository provides example programs for 人工智能基础（高中版）
 
 **- Git clone this repository to host directory /AICourse**
 
-**- Download data and env need by this course**
+**- Download data and env needed by the course**
 
 ```
 Data and env are saved on baidu yunpan: https://pan.baidu.com/s/1FbODrDjFJf1IE7iFdl9GuQ extract code: p96b
